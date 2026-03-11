@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Snowflake Project: Marketing Campaign ROI Tracking – Quantified Impact Leading to 22% Increase in Lead Conversion
 
 
@@ -187,7 +187,4 @@ This type of analysis could help shift budget toward more efficient channels, po
 
 Practicing with Snowflake's syntax and scalability prepared me for handling larger datasets and building real-time marketing dashboards in a junior role.
 
-=======
-# snowflake-marketing-roi-analysis
-Snowflake SQL analysis for marketing campaign ROI
->>>>>>> c7dd24b78f0f3dc2f7a6a02009ec09cd013f65da
+
